@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx2a6465a5954f82d2",
+"app_id": "wxe092d14c03a430e5", 🔄  ❓
 # 公众号appSecret
-"app_secret": "10f798d9dca49fd1684abf24891aa36d",
+"app_secret": "7bba368cff99b75262e4954d62c26811", 🔄  ❓
 # 模板消息id
-"template_id": "hVLnoa3PWdP994m4AlnKhXmLm1Mia7_16kooixADzAk",
+"template_id": "lkZmV_6KFU8Xe61k68xb11q-Phct2EzKRcso6Bm-o9k", 🔄  ❓
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oVfJy6OB-FBIV6qEaEhiCNUXtxxo","oVfJy6LqZ1bDC4weCPIs-hz4AR5k"],
+"user": ["oousH6ZFCOWX2Knal8FBPFq6VDxU","oousH6dOzTBw4ub4B4LL9KhDYK4I"], 🔄  ❓
  
 # 信息配置
 # 和风天气apikey
@@ -19,7 +19,7 @@
 # 生日2
 "birthday2": {"name": "小李", "birthday": "r1997-04-25"},
 # 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2021-10-03",
+"love_date": "2021-10-03",  🔄  ❓🔄  ❓
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
